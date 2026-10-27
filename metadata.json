@@ -1,0 +1,6 @@
+{
+  "name": "F1 Race Intelligence - Tableau Analytics & Strategy Hub",
+  "description": "Comprehensive Formula 1 Race Intelligence suite featuring Tableau-grade visualizations, 9-scene data story, driver reliability & DNF telemetry, and persona-driven strategic analysis across 17 seasons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
